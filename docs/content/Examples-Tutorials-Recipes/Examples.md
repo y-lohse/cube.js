@@ -99,6 +99,7 @@ These recipes will show you the best practices of using Cube.js.
 ### Data schema
 
 - [Dynamically Union Tables](/recipes/dynamically-union-tables)
+- [Entity-Attribute-Value Model](/recipes/entity-attribute-value)
 
 ### Code reusability
 
