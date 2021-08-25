@@ -97,7 +97,8 @@ from the source database.
 | When using this configuration in a single node deployment (where the API
 | instance and [Refresh Worker][ref-deploy-refresh-wrkr] are configured on the
 | same host), requests made to the API that cannot be satisfied by a rollup
-| throw an error. Scheduled refreshes will continue to work in the background.
+| will throw an error. Scheduled refreshes will continue to work in the
+| background.
 <!-- prettier-ignore-end -->
 
 ## Partitioning
